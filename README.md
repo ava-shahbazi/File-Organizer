@@ -18,3 +18,9 @@ This project helps you keep your folders clean and well-structured by moving fil
 3. Make sure you have Python 3 installed.
 4. Run the script
 By default, it organizes files in the folder where the script is located. You can also modify the path inside the code.
+
+## Requirements
+
+Install  required packages
+bash'''
+pip install -r requirements.txt
